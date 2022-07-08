@@ -30,7 +30,7 @@ export default function Home() {
         <link key="gfont" rel="preconnect" href="https://fonts.googleapis.com"></link>
       </Head>
       <Head>
-        <link key="gfont" rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
+        <link key="gfont" rel="preconnect" href="https://fonts.gstatic.com" crossOrigin></link>
       </Head>
       <Head>
         <link href="https://fonts.googleapis.com/css2?family=Andada+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet"></link>
